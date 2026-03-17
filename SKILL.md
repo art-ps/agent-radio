@@ -22,7 +22,7 @@ metadata:
         kind: brew
         formula: ffmpeg
         label: Install ffmpeg (ffplay)
-version: 1.1.0
+version: 1.1.1
 license: MIT
 author: Artem Pisarev
 ---
@@ -160,4 +160,3 @@ Override locations when needed:
 
 ---
 
-_Created 2026-03-16 by Kairos for Artem_
